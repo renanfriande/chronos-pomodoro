@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 1,
-  "breadcrumbs.enabled": false,
+  "breadcrumbs.enabled": true,
   "editor.fontSize": 16,
   "debug.console.fontSize": 16,
   "terminal.integrated.fontSize": 16,
