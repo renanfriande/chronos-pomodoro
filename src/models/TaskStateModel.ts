@@ -10,5 +10,5 @@ export type TaskStateModel = {
     workTime: number;
     shortBreakTime: number;
     longBreakTime: number;
-  };
+  }
 };
